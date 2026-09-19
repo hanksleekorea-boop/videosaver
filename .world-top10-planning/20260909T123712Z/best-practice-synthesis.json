@@ -1,0 +1,18 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.709146+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "best-practice-synthesis",
+  "adopt": [
+    "결과 설명",
+    "안전 선택",
+    "복구 가능 상태",
+    "실제 최신성 표시"
+  ],
+  "do_not_copy": [
+    "과도한 추적",
+    "불투명 추천",
+    "핵심 자료 유료 잠금"
+  ]
+}

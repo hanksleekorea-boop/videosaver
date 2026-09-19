@@ -1,0 +1,27 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.691269+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "world-top10-run",
+  "status": "partial",
+  "mode": "END_TO_END",
+  "service": {
+    "name": "프리댄스필드",
+    "folder": "AI비디오세이버",
+    "region": "서울",
+    "audience": "성인 춤 모임 탐색·참여",
+    "mobile_url": "https://wesaver.scanners.cc/free-dance",
+    "pc_url": "https://wesaver.scanners.cc/free-dance",
+    "dashboard_url": "https://wesaver.scanners.cc/free-dance/progress",
+    "qr": "D:\\Desktop\\챗지피티프로젝트들\\AI비디오세이버\\artifacts\\qr\\free-dance-field-cloudflare-wesaver.svg",
+    "source_head": "41225e60b3db3f6129cb5f91e29e04ff2b0d9b46",
+    "latest_verified": "2026-09-08"
+  },
+  "source_reuse": "D:\\Desktop\\챗지피티프로젝트들\\AI비디오세이버\\.world-class-analysis\\20260824T070156Z",
+  "top10_count": 10,
+  "candidate_verified_count": 30,
+  "candidate_target": 800,
+  "product_code_modified": false,
+  "external_changes": 0
+}

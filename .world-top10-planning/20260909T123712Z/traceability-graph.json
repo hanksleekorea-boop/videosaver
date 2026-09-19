@@ -1,0 +1,25 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.726142+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "traceability-graph",
+  "edges": [
+    {
+      "from": "E-WCA-EXPANDED-20260824",
+      "to": "GAP-001"
+    },
+    {
+      "from": "GAP-001",
+      "to": "REQ-001"
+    },
+    {
+      "from": "REQ-001",
+      "to": "S1-02"
+    },
+    {
+      "from": "S1-02",
+      "to": "TEST-0002"
+    }
+  ]
+}

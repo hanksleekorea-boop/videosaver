@@ -1,0 +1,25 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.709146+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "dependency-map",
+  "edges": [
+    {
+      "from": "STAGE-1-BASELINE",
+      "to": "STAGE-2-FOUNDATION"
+    },
+    {
+      "from": "STAGE-2-FOUNDATION",
+      "to": "STAGE-3-CORE"
+    },
+    {
+      "from": "STAGE-3-CORE",
+      "to": "STAGE-4-QUALITY"
+    },
+    {
+      "from": "STAGE-4-QUALITY",
+      "to": "STAGE-5-RELEASE"
+    }
+  ]
+}

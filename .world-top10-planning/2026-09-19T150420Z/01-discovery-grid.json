@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "AI비디오세이버",
+    "timestamp": "2026-09-19T15:04:20.979Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "AI 비디오 세이버",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "고화질 다운로드",
+      "워터마크 제거",
+      "다중 플랫폼 지원"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "원하는 비디오를 AI가 안전하고 빠르게 저장합니다."
+  }
+}

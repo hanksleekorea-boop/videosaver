@@ -1,0 +1,282 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.695419+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "candidate-register",
+  "target": 800,
+  "verified_unique": 30,
+  "shortfall": 770,
+  "items": [
+    {
+      "candidate_id": "CAND-001",
+      "service_name": "Meetup",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-002",
+      "service_name": "Eventbrite",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-003",
+      "service_name": "ClassPass",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-004",
+      "service_name": "Mindbody",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-005",
+      "service_name": "Fever",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-006",
+      "service_name": "AllEvents",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-007",
+      "service_name": "Luma",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-008",
+      "service_name": "Partiful",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-009",
+      "service_name": "Playo",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-010",
+      "service_name": "Peerspace",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-011",
+      "service_name": "Google Maps",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-012",
+      "service_name": "Airbnb Experiences",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-013",
+      "service_name": "Strava",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-014",
+      "service_name": "AllTrails",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-015",
+      "service_name": "Nike Training Club",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-016",
+      "service_name": "Duolingo",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-017",
+      "service_name": "Headspace",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-018",
+      "service_name": "Uber Safety",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-019",
+      "service_name": "Spotify",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-020",
+      "service_name": "OpenTable",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-021",
+      "service_name": "Facebook Events",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-022",
+      "service_name": "Instagram",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-023",
+      "service_name": "TikTok",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-024",
+      "service_name": "YouTube",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-025",
+      "service_name": "Discord",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-026",
+      "service_name": "WhatsApp Communities",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-027",
+      "service_name": "Reddit",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-028",
+      "service_name": "Nextdoor",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-029",
+      "service_name": "Bumble For Friends",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    },
+    {
+      "candidate_id": "CAND-030",
+      "service_name": "Yelp",
+      "catalog_match": "이벤트·커뮤니티·예약",
+      "status": "REUSED_VERIFIED",
+      "evidence_ids": [
+        "SRC-WCA-001"
+      ]
+    }
+  ]
+}

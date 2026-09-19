@@ -1,0 +1,14 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.738283+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "readiness-run-manifest",
+  "status": "partial",
+  "engine_run": "NOT_RUN_OFFICIAL_SUPPLY",
+  "input": "D:\\Desktop\\챗지피티프로젝트들\\AI비디오세이버\\.readiness-analysis\\20260909T123712Z\\project-evidence.json",
+  "result": "D:\\Desktop\\챗지피티프로젝트들\\AI비디오세이버\\.readiness-analysis\\20260909T123712Z\\readiness-analysis.json",
+  "android": "필요하지만 미실시",
+  "product_code_modified": false,
+  "external_changes": 0
+}

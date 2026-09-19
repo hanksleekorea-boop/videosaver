@@ -1,0 +1,585 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.712373+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "requirements-register",
+  "requirements": [
+    {
+      "id": "REQ-001",
+      "gap": "GAP-001",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-002",
+      "gap": "GAP-002",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-003",
+      "gap": "GAP-003",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-004",
+      "gap": "GAP-004",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-005",
+      "gap": "GAP-005",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-006",
+      "gap": "GAP-006",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-007",
+      "gap": "GAP-007",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-008",
+      "gap": "GAP-008",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-009",
+      "gap": "GAP-009",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-010",
+      "gap": "GAP-010",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-011",
+      "gap": "GAP-001",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-012",
+      "gap": "GAP-002",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-013",
+      "gap": "GAP-003",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-014",
+      "gap": "GAP-004",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-015",
+      "gap": "GAP-005",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-016",
+      "gap": "GAP-006",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-017",
+      "gap": "GAP-007",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-018",
+      "gap": "GAP-008",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-019",
+      "gap": "GAP-009",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-020",
+      "gap": "GAP-010",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-021",
+      "gap": "GAP-001",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-022",
+      "gap": "GAP-002",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-023",
+      "gap": "GAP-003",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-024",
+      "gap": "GAP-004",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-025",
+      "gap": "GAP-005",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-026",
+      "gap": "GAP-006",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-027",
+      "gap": "GAP-007",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-028",
+      "gap": "GAP-008",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-029",
+      "gap": "GAP-009",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-030",
+      "gap": "GAP-010",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-031",
+      "gap": "GAP-001",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-032",
+      "gap": "GAP-002",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-033",
+      "gap": "GAP-003",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-034",
+      "gap": "GAP-004",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-035",
+      "gap": "GAP-005",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-036",
+      "gap": "GAP-006",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-037",
+      "gap": "GAP-007",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-038",
+      "gap": "GAP-008",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-039",
+      "gap": "GAP-009",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-040",
+      "gap": "GAP-010",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-041",
+      "gap": "GAP-001",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-042",
+      "gap": "GAP-002",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-043",
+      "gap": "GAP-003",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-044",
+      "gap": "GAP-004",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-045",
+      "gap": "GAP-005",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-046",
+      "gap": "GAP-006",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-047",
+      "gap": "GAP-007",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-048",
+      "gap": "GAP-008",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-049",
+      "gap": "GAP-009",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-050",
+      "gap": "GAP-010",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-051",
+      "gap": "GAP-001",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-052",
+      "gap": "GAP-002",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-053",
+      "gap": "GAP-003",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-054",
+      "gap": "GAP-004",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-055",
+      "gap": "GAP-005",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-056",
+      "gap": "GAP-006",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-057",
+      "gap": "GAP-007",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-058",
+      "gap": "GAP-008",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-059",
+      "gap": "GAP-009",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-060",
+      "gap": "GAP-010",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-061",
+      "gap": "GAP-001",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-062",
+      "gap": "GAP-002",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-063",
+      "gap": "GAP-003",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-064",
+      "gap": "GAP-004",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-065",
+      "gap": "GAP-005",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-066",
+      "gap": "GAP-006",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-067",
+      "gap": "GAP-007",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-068",
+      "gap": "GAP-008",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-069",
+      "gap": "GAP-009",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-070",
+      "gap": "GAP-010",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-071",
+      "gap": "GAP-001",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-072",
+      "gap": "GAP-002",
+      "stage": "STAGE-2-FOUNDATION",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-073",
+      "gap": "GAP-003",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-074",
+      "gap": "GAP-004",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-075",
+      "gap": "GAP-005",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-076",
+      "gap": "GAP-006",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-077",
+      "gap": "GAP-007",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-078",
+      "gap": "GAP-008",
+      "stage": "STAGE-3-CORE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-079",
+      "gap": "GAP-009",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-080",
+      "gap": "GAP-010",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-081",
+      "gap": "GAP-001",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-082",
+      "gap": "GAP-002",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-083",
+      "gap": "GAP-003",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-084",
+      "gap": "GAP-004",
+      "stage": "STAGE-4-QUALITY",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-085",
+      "gap": "GAP-005",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-086",
+      "gap": "GAP-006",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-087",
+      "gap": "GAP-007",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-088",
+      "gap": "GAP-008",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-089",
+      "gap": "GAP-009",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-090",
+      "gap": "GAP-010",
+      "stage": "STAGE-5-RELEASE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-091",
+      "gap": "GAP-001",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-092",
+      "gap": "GAP-002",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-093",
+      "gap": "GAP-003",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-094",
+      "gap": "GAP-004",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-095",
+      "gap": "GAP-005",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-096",
+      "gap": "GAP-006",
+      "stage": "STAGE-1-BASELINE",
+      "status": "PLANNED"
+    }
+  ]
+}

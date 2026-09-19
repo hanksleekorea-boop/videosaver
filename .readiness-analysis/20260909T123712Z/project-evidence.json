@@ -1,0 +1,56 @@
+{
+  "schema": "crh-project-evidence/v1",
+  "assessedAt": "2026-09-09",
+  "scope": "all",
+  "project": {
+    "name": "프리댄스필드",
+    "folder": "AI비디오세이버",
+    "publicUrl": "https://wesaver.scanners.cc/free-dance"
+  },
+  "direction": {
+    "goal": "검증된 서울 성인 춤 모임 탐색·참여",
+    "region": "서울"
+  },
+  "evidence": {
+    "mobile": {
+      "status": "필요하지만 미실시",
+      "observedAt": "2026-09-09",
+      "url": "https://wesaver.scanners.cc/free-dance"
+    },
+    "web": {
+      "status": "부분",
+      "observedAt": "2026-09-08",
+      "url": "https://wesaver.scanners.cc/free-dance"
+    }
+  },
+  "benchmark": {
+    "comparators": [
+      "Meetup",
+      "Eventbrite",
+      "ClassPass",
+      "Mindbody",
+      "Fever",
+      "AllEvents",
+      "Luma",
+      "Partiful",
+      "Playo",
+      "Peerspace"
+    ]
+  },
+  "analysisMetadata": {
+    "offeredPlatforms": {
+      "mobile": true,
+      "web": true
+    },
+    "statusReasons": {
+      "mobile": "최신 F1 변경 후 Android/iPhone 증거 없음",
+      "web": "공개 HTTP 확인은 있으나 전체 흐름 미실시"
+    },
+    "evidenceSources": [
+      "E-CLOUDFLARE-20260908",
+      "E-WCA-EXPANDED-20260824",
+      "E-LINKMAX-20260909"
+    ],
+    "engineIgnoredSupplement": true
+  }
+}

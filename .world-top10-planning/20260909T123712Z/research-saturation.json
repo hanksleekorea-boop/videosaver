@@ -1,0 +1,11 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.697730+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "research-saturation",
+  "target_candidates": 800,
+  "actual_unique": 30,
+  "saturation": "NOT_REACHED",
+  "reason": "새 외부 검색을 계획 폴더 생성 범위에서 실행하지 않음"
+}

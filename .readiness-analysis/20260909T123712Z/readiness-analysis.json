@@ -1,0 +1,32 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.735282+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "readiness-analysis",
+  "schema": "crh-analysis-result/v1",
+  "engineVersion": "1.0.1",
+  "lens": {
+    "name": "core",
+    "version": "2.1.0",
+    "itemCount": 197,
+    "gateCount": 40
+  },
+  "project": "프리댄스필드",
+  "status": "partial",
+  "mobile": {
+    "score": null,
+    "progress": 0.0,
+    "requiredGates": "미평가"
+  },
+  "web": {
+    "score": null,
+    "progress": 0.0,
+    "requiredGates": "부분"
+  },
+  "composite": {
+    "axesUsed": 0,
+    "status": "계산 불가",
+    "reason": "공급 엔진 실행과 필수 증거가 아직 없음"
+  }
+}

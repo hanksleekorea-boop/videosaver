@@ -1,0 +1,12 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.709146+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "solution-options",
+  "A": "실제 콘텐츠·안전 우선",
+  "B": "광고·결제 확대",
+  "C": "LinkMax 공동개발",
+  "recommended": "A → C → B",
+  "reason": "신뢰와 핵심 과업을 먼저 완성"
+}

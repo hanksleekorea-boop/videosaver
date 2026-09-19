@@ -1,0 +1,169 @@
+{
+  "schema_version": "v33.1",
+  "run_id": "IPI-20260909T123712Z",
+  "generated_at_utc": "2026-09-09T12:37:12.701894+00:00",
+  "project_fingerprint": "AI비디오세이버|프리댄스필드|41225e60b3db3f6129cb5f91e29e04ff2b0d9b9f46",
+  "artifact_type": "benchmark-taxonomy",
+  "families": [
+    {
+      "id": "FIELD-001",
+      "name": "첫 가치",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-002",
+      "name": "핵심 과업",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-003",
+      "name": "개인화",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-004",
+      "name": "결과 설명",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-005",
+      "name": "실패 복구",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-006",
+      "name": "저장·공유",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-007",
+      "name": "모바일",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-008",
+      "name": "PC",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-009",
+      "name": "연속성",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-010",
+      "name": "접근성",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-011",
+      "name": "속도",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-012",
+      "name": "보안",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-013",
+      "name": "계정",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-014",
+      "name": "결제",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-015",
+      "name": "지원",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-016",
+      "name": "장기 사용",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-017",
+      "name": "운영",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-018",
+      "name": "차별화",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-019",
+      "name": "신뢰",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-020",
+      "name": "부작용",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-021",
+      "name": "콘텐츠 최신성",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-022",
+      "name": "주최자 출처",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-023",
+      "name": "동의",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-024",
+      "name": "정원 상태",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-025",
+      "name": "신청 준비",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-026",
+      "name": "커뮤니티 안전",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-027",
+      "name": "법률",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-028",
+      "name": "데이터 품질",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-029",
+      "name": "광고",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-030",
+      "name": "관측",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-031",
+      "name": "국제화",
+      "metric_slots": 50
+    },
+    {
+      "id": "FIELD-032",
+      "name": "실험",
+      "metric_slots": 50
+    }
+  ]
+}
